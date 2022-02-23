@@ -1,0 +1,27 @@
+{
+		"Skills":{
+			"skill_1": "Сlient-server architecture",
+			"skill_2": "HTTP requests",
+			"skill_3": "HTTP response codes",
+			"skill_4": "Structure JSON",
+			"skill_5": "Structure XML",
+			"skill_6": "Postman",
+			"skill_7": "Charles",
+			"skill_8": "Fiddler",
+			"skill_9": "Dev Tools",
+			"skill_10": "VPN",
+			"skill_11": "Mobile testing",
+			"skill_12": "XCode",
+			"skill_13": "Android Studio",
+			"skill_14": "ADB",
+			"skill_15": "Terminal Linux",
+			"skill_16": "GitHub",
+			"skill_17": "SQL",
+			"skill_18": "Postgres",
+			"skill_19": "Redis",
+			"skill_20": "Jmeter",
+			"skill_21": "Scrum",
+			"skill_22": "Python"
+		}
+
+}
