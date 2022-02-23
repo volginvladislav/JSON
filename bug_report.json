@@ -1,8 +1,8 @@
 {
   		"Structure":{
-  			"1": "Summary", 
+  			"1": "Summary",
   			"2": "Project",
- 	 		  "3": "Component",
+ 	 		"3": "Component",
   			"4": "Version",
   			"5": "Severity",
   			"6": "Priority",
